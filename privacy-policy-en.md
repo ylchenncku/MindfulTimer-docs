@@ -1,12 +1,12 @@
-# MindfulTimer Privacy Policy
+# Awareness Practice Privacy Policy
 
 Last updated: 2026-05-12
 
-We (the developer of MindfulTimer) take your privacy seriously. This document explains how this app handles your data.
+We (the developer of Awareness Practice) take your privacy seriously. This document explains how this app handles your data.
 
 ## 1. No Personal Data Collected
 
-MindfulTimer **does not collect** any personally identifiable information.
+Awareness Practice **does not collect** any personally identifiable information.
 
 There is no sign-up, no login, and we do not ask for your name, email, phone number, or any contact information.
 
