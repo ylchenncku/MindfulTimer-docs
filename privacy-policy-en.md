@@ -50,4 +50,4 @@ If we update this policy because of future feature changes, we will update this 
 
 For any questions, please contact:
 
-**n88021121@gs.ncku.edu.tw**
+**yl.appstudio@icloud.com**
